@@ -19,5 +19,16 @@
     overflow: hidden;
 }
 
+.product figure {
+    margin: 1em;
+}
+
+.product img {
+    width: 100%;
+}
+
+.caption {
+    font-size: 0.6em;
+}
 
 

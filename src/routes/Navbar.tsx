@@ -7,8 +7,14 @@ export const Navbar = (): JSX.Element => (
     <React.Fragment>
         <header className={styles.header}>
             <nav>
-                <Link className={styles.navLink} to="/">Home</Link>
-                <Link className={styles.navLink} to="/products">Products</Link>
+                <Link 
+                    className={styles.navLink} 
+                    to="/">Home
+                </Link>
+                <Link 
+                    className={styles.navLink} 
+                    to="/products">Products
+                </Link>
                 <CartLink />
             </nav>
         </header>
