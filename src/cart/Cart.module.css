@@ -1,0 +1,15 @@
+h1 {
+    color: #31113f;
+}
+
+.table {
+    width: 600px;
+    background-color: #f1f1f1;
+    margin: 0 auto;
+    border-radius: 1em;
+    padding: 1em;
+    border-spacing: 5px;
+    margin-bottom: 2em;
+}
+
+
